@@ -1,0 +1,25 @@
+7/7/25
+q1)read number from standard input
+q2)get input from user
+q3)mul two float num
+q4)swap 2 number
+q5)add 2 complex number
+q6)check evenor odd int
+q7)find largest of 3 number
+q8)find lcm of 2 number
+q9)prime number 1-100
+q10)check leap year
+
+
+
+8/7/25
+1q)pos or neg
+q2)eligiable or vote
+q3)map num:week use switch
+q4)even or odd upto 10
+q5)sum of n
+q6)factorial
+q7)isprime
+q8)determine string palindrome
+q9)reveres digits of a given number
+q10)count the number of digits in in integer
