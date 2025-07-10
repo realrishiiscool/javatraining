@@ -23,3 +23,18 @@ q7)isprime
 q8)determine string palindrome
 q9)reveres digits of a given number
 q10)count the number of digits in in integer
+
+
+10/7/25
+Programs on array :
+
+1) Calculate the sum of all elements in an array.
+2)Determine the largest and smallest element within an array.
+3)Reverse the order of elements in an array.
+4)Find how many times a particular element appears in an array.
+5)Eliminate duplicate elements from an array.
+6)Identify the second largest or smallest distinct element in an array.
+7)print all the even numbers from the array taken from the user through Scanner class.
+8)Creating a new array and copying all elements from one array to another.
+9)Combine elements from two separate arrays into a single new array.
+10)traverse through the array and print all elements present in array.
